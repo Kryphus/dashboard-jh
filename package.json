@@ -1,6 +1,7 @@
 {
   "name": "dashboard-jh",
   "version": "1.0.0",
+  "homepage": "https://kryphus.github.io/dashboard-jh",
   "description": "",
   "main": "index.js",
   "scripts": {
